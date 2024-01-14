@@ -1,0 +1,16 @@
+C:\Users\zorit\source\repos\Music Player\Music Player\bin\Release\Music Player.exe.config
+C:\Users\zorit\source\repos\Music Player\Music Player\bin\Release\Music Player.exe
+C:\Users\zorit\source\repos\Music Player\Music Player\bin\Release\Music Player.pdb
+C:\Users\zorit\source\repos\Music Player\Music Player\obj\Release\MainWindow.g.cs
+C:\Users\zorit\source\repos\Music Player\Music Player\obj\Release\App.g.cs
+C:\Users\zorit\source\repos\Music Player\Music Player\obj\Release\Music Player_MarkupCompile.cache
+C:\Users\zorit\source\repos\Music Player\Music Player\obj\Release\Music Player_MarkupCompile.lref
+C:\Users\zorit\source\repos\Music Player\Music Player\obj\Release\App.baml
+C:\Users\zorit\source\repos\Music Player\Music Player\obj\Release\MainWindow.baml
+C:\Users\zorit\source\repos\Music Player\Music Player\obj\Release\Music Player.g.resources
+C:\Users\zorit\source\repos\Music Player\Music Player\obj\Release\Music_Player.Properties.Resources.resources
+C:\Users\zorit\source\repos\Music Player\Music Player\obj\Release\Music Player.csproj.GenerateResource.cache
+C:\Users\zorit\source\repos\Music Player\Music Player\obj\Release\Music Player.csproj.CoreCompileInputs.cache
+C:\Users\zorit\source\repos\Music Player\Music Player\obj\Release\Music Player.exe
+C:\Users\zorit\source\repos\Music Player\Music Player\obj\Release\Music Player.pdb
+C:\Users\zorit\source\repos\Music Player\Music Player\obj\Release\Music Player.csprojAssemblyReference.cache
